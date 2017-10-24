@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+CummingsViewTool::Renderer.copyright "Jordan Cummings", "All rights (and lefts) reserved"
+```
 
 ## Development
 
